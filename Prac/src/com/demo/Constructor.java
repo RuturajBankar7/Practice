@@ -2,7 +2,7 @@ package com.demo;
 
 public class Constructor {
 
-	Constructor()
+	 Constructor()
 	{
 		System.out.println("Default constructor");
 	}

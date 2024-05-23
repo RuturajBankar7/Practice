@@ -4,7 +4,7 @@ public class Constructor {
 
 	 Constructor()
 	{
-		System.out.println("Default constructor");
+		System.out.println("Default constructor 1");
 	}
 	
 	Constructor(int i)
